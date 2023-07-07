@@ -2,7 +2,7 @@
  Prank Generating App
  
 ## Live Demo Link
-<a href="https://melihkocc.github.io/TimeCalculatingApp/">Demo Link</a>
+<a href="https://melihkocc.github.io/PrankApp/">Demo Link</a>
 
 ## Technologies
 · HTML<br>
